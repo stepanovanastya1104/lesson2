@@ -1,0 +1,19 @@
+Различия:
+Ветка master:
+Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+
+Ветка demo:
+Merge branch 'boots_buttons' Nastya Stepanova 9 minutes ago
+Merge remote-tracking branch 'origin/hat' Nastya Stepanova 9 minutes ago
+Merge remote-tracking branch 'origin/buttons' into boots_buttons Nastya Stepanova 10 minutes ago
+fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+
+7 коммитов:
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+init
